@@ -8,11 +8,11 @@
 
 ### Stats 📈
 
-[![TalkCoffee Card](https://github-readme-stats.vercel.app/api/pin/?username=henrybenso&repo=talkcoffee)](https://github.com/henrybenso/talkcoffee)
-[![River Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanardon&repo=River)](https://github.com/bryanardon/River)
-[![WondoBot Card](https://github-readme-stats.vercel.app/api/pin/?username=jf2024&repo=WondoBot)](https://github.com/jf2024/WondoBot)
+[![TalkCoffee Card](https://github-readme-stats.vercel.app/api/pin/?username=henrybenso&repo=talkcoffee&theme=dark)](https://github.com/henrybenso/talkcoffee)
+[![River Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanardon&repo=River&theme=dark)](https://github.com/bryanardon/River)
+[![WondoBot Card](https://github-readme-stats.vercel.app/api/pin/?username=jf2024&repo=WondoBot&theme=dark)](https://github.com/jf2024/WondoBot)
 
-![Top Langs](https://github-readme-stats-henrybensos-projects.vercel.app/api/top-langs/?username=henrybenso&layout=compact)
+![Top Langs](https://github-readme-stats-henrybensos-projects.vercel.app/api/top-langs/?username=henrybenso&layout=compact&theme=dark)
 
 <!--
 **henrybenso/henrybenso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
