@@ -9,8 +9,8 @@
 ### Stats 📈
 
 [![TalkCoffee Card](https://github-readme-stats.vercel.app/api/pin/?username=henrybenso&repo=talkcoffee&theme=dark)](https://github.com/henrybenso/talkcoffee)
-[![River Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanardon&repo=River&theme=dark)](https://github.com/bryanardon/River)
 [![WondoBot Card](https://github-readme-stats.vercel.app/api/pin/?username=jf2024&repo=WondoBot&theme=dark)](https://github.com/jf2024/WondoBot)
+[![River Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanardon&repo=River&theme=dark)](https://github.com/bryanardon/River)
 
 ![Top Langs](https://github-readme-stats-henrybensos-projects.vercel.app/api/top-langs/?username=henrybenso&layout=compact&theme=dark)
 
