@@ -2,7 +2,7 @@
 
 🔭 I'm currently working on [TalkCoffee](https://github.com/henrybenso/talkcoffee). Deployment coming soon!
 
-💬 My name is Henry Benso, and I'm an LMU graduate with a degree in Computer Science. I'm passionate about building full-stack apps and tinkering with the rapidly progressing world of AI, specifically deep learning.
+💬 My name is Henry Benso, and I'm an LMU graduate with a degree in Computer Science. I'm passionate about building full-stack apps and tinkering with AI, specifically deep learning.
 
 ---
 
