@@ -1,14 +1,13 @@
 ### Hello World! 👋
 
-🔭 I'm currently working on [TalkCoffee](https://github.com/henrybenso/talkcoffee). Deployment coming soon!
+🔭 I'm currently working on **talkcoffee**. Deployment (hopefully) soon!
 
-💬 My name is Henry Benso, and I'm an LMU graduate with a degree in Computer Science. I'm passionate about building full-stack apps and tinkering with AI, specifically deep learning.
+💬 My name is Henry, and I'm an LMU graduate with a degree in Computer Science. I'm passionate about building full-stack apps and tinkering with AI, specifically deep learning.
 
 ---
 
 ### Stats 📈
 
-[![TalkCoffee Card](https://github-readme-stats.vercel.app/api/pin/?username=henrybenso&repo=talkcoffee&theme=dark)](https://github.com/henrybenso/talkcoffee)
 [![WondoBot Card](https://github-readme-stats.vercel.app/api/pin/?username=jf2024&repo=WondoBot&theme=dark)](https://github.com/jf2024/WondoBot)
 [![River Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanardon&repo=River&theme=dark)](https://github.com/bryanardon/River)
 [![BrewBuddy Card](https://github-readme-stats.vercel.app/api/pin/?username=henrybenso&repo=BrewBuddyApp&theme=dark)](https://github.com/henrybenso/BrewBuddyApp)
