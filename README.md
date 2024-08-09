@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-🔭 I'm currently working on **talkcoffee**. Deployment (hopefully) soon!
+🔭 I'm currently building on **talkcoffee**. Deployment (hopefully) soon!
 
 💬 My name is Henry, and I'm an LMU graduate with a degree in Computer Science. I'm passionate about building full-stack apps and tinkering with AI, specifically deep learning.
 
